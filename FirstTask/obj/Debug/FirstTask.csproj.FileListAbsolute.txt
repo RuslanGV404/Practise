@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\practice\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\user\Desktop\practice\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\user\Desktop\practice\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\App.g.cs
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask_MarkupCompile.cache
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask_MarkupCompile.lref
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.g.resources
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.Properties.Resources.resources
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.csproj.GenerateResource.cache
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\user\Desktop\practice\FirstTask\obj\Debug\FirstTask.pdb
