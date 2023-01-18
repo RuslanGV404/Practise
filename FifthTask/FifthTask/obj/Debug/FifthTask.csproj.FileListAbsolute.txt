@@ -1,0 +1,16 @@
+C:\Visio_Studio_profecional\Project\FifthTask\bin\Debug\FifthTask.exe.config
+C:\Visio_Studio_profecional\Project\FifthTask\bin\Debug\FifthTask.exe
+C:\Visio_Studio_profecional\Project\FifthTask\bin\Debug\FifthTask.pdb
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.csproj.AssemblyReference.cache
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.csproj.SuggestedBindingRedirects.cache
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\MainWindow.g.cs
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\App.g.cs
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask_MarkupCompile.cache
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask_MarkupCompile.lref
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\MainWindow.baml
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.g.resources
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.Properties.Resources.resources
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.csproj.GenerateResource.cache
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.csproj.CoreCompileInputs.cache
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.exe
+C:\Visio_Studio_profecional\Project\FifthTask\obj\Debug\FifthTask.pdb
